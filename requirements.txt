@@ -1,0 +1,12 @@
+Python3
+
+Python libraries:
+1. Pandas
+2. NumPy
+3. Keras
+4. TensorFlow
+5. PyTorch
+6. Torchvision
+7. Matplotlib
+8. Seaborn
+9. time
